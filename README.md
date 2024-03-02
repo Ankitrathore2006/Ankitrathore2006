@@ -27,7 +27,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/àńkíť-ŕáťhøŕé-417ab4280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="àńkíť-ŕáťhøŕé-417ab4280" height="30" width="70" /></a>
-<a href="https://fb.com/ánkít ráthøré" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ánkít ráthøré" height="30" width="70" /></a>
+<a href="https://www.facebook.com/profile.php?id=100056130937805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ánkít ráthøré" height="30" width="70" /></a>
 <a href="https://instagram.com/ankit_r2508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_r2508" height="30" width="70" /></a>
 <a href="https://www.leetcode.com/ankitrathore06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitrathore06" height="30" width="70" /></a>
 </p>
