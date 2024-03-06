@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Instagram clone**
 
-- 🌱 I’m currently learning **Nodejs and Express**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 My completed project **LIBRARY MANAGEMENT SYSTEM**
 
