@@ -1,5 +1,5 @@
 
-![Logo](https://media.licdn.com/dms/image/D4D16AQFn2MamV3B_TA/profile-displaybackgroundimage-shrink_350_1400/0/1709186671790?e=1714608000&v=beta&t=8FihXtYzcd-Yl16Iw4xyk_K81ACX_nY29KWhHC9yEwc)
+![Logo](logo.png)
 
 <h1 align="center">Hi 👋, I'm Ankit rathore</h1>
 <h3 align="center">A passionate full-stack web developer, designer, freelancer, and computer science engineering student.</h3>
