@@ -2,11 +2,13 @@
 ![Logo](https://media.licdn.com/dms/image/D4D16AQFn2MamV3B_TA/profile-displaybackgroundimage-shrink_350_1400/0/1709186671790?e=1714608000&v=beta&t=8FihXtYzcd-Yl16Iw4xyk_K81ACX_nY29KWhHC9yEwc)
 
 <h1 align="center">Hi 👋, I'm Ankit rathore</h1>
-<h3 align="center">A passionate full stack Webdeveloper and student of computer science engineering</h3>
+<h3 align="center">A passionate full-stack web developer, designer, freelancer, and computer science engineering student.</h3>
+<h4 align="center">I am an experienced freelancer, specializing in both web design and development. I have completed internships with Ideal IT Tecno Private Limited, Indore, where I worked as a MERN stack developer, and at Dr. Bhim Rao Ambedkar College, Gwalior, where I contributed as a PHP developer and web developer.
+
+My expertise spans front-end and back-end development, enabling me to create seamless, dynamic web applications. I am passionate about leveraging my skills to deliver impactful digital solutions for businesses.</h4>
 
 
-
-- 🔭 I’m currently working on **Instagram clone**
+- 🔭 I’m currently working on **Cloud Based Software**
 
 - 🌱 I’m currently learning **MERN Stack**
 
