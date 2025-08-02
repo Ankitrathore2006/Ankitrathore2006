@@ -25,7 +25,7 @@
 
 ### 📂 Portfolio & Resume
 
-- 🧠 Explore my projects: [GitHub Portfolio](https://ankitrathore2006.github.io/newport.github.io/)
+- 🧠 Explore my projects: [Portfolio](https://portfolio-new-roan-gamma.vercel.app/)
 - 📄 View my resume: [Ankit's Resume (PDF)](https://ankitrathore2006.github.io/newport.github.io/Ankit's%20Resume.pdf)
 - 💬 Ask me about: **Node.js, Express.js, React, Next.js, PHP, CSS, Java**
 
