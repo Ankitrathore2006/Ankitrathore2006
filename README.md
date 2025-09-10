@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="logo.png" alt="Logo" height="100" />
+  <img src="hello.png" alt="Logo" />
+<!--   <img src="logo.png" alt="Logo" height="100" /> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankit Rathore</h1>
