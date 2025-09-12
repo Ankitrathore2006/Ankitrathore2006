@@ -26,7 +26,7 @@
 
 ### 📂 Portfolio & Resume
 
-- 🧠 Explore my projects: [Portfolio](https://portfolio-new-roan-gamma.vercel.app/)
+- 🧠 Explore my projects: [Portfolio](https://newportfolio-rho-two.vercel.app/)
 - 📄 View my resume: [Ankit's Resume (PDF)](new.pdf)
 - 💬 Ask me about: **Node.js, Express.js, React, Next.js, PHP, CSS, Java**
 
